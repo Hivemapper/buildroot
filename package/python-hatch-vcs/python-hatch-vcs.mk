@@ -14,4 +14,5 @@ HOST_PYTHON_HATCH_VCS_DEPENDENCIES = \
 	host-python-hatchling \
 	host-python-setuptools-scm
 
+$(eval $(python-package))
 $(eval $(host-python-package))

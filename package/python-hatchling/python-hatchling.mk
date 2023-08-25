@@ -16,4 +16,5 @@ HOST_PYTHON_HATCHLING_DEPENDENCIES = \
 	host-python-pathspec \
 	host-python-pluggy
 
+$(eval $(python-package))
 $(eval $(host-python-package))
