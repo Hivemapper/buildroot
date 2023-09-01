@@ -1,3 +1,2 @@
-# Locally computed
-sha256  4333ef2fe63f2510988af82b726f5b1919ebd54037ea6674566c69fcceb67e11  imagemagick-7.1.0-51.tar.gz
-sha256  8cceeb67d4e783cb63075c7311fdb990fa0369ee80fbd0f481064cd02386ca2d  LICENSE
+# From http://www.imagemagick.org/download/releases/digest.rdf
+sha256 c028642af5f4cbae864b4afd6ea96878191be64103ca9c7cc67612ec3cbb9dec ImageMagick-6.9.4-6.tar.xz
